@@ -1,2 +1,2 @@
-# cloak
+# Cloak
 Cloak Wallet
