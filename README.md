@@ -1,5 +1,5 @@
 # Cloak
-Cloak Wallet
+In this document, we describe our grant application for building the Cloak Wallet.
 
 
 ## Project description
@@ -29,7 +29,7 @@ Expected use cases:
 (Benefits for ecosystem) - Further security for all the users in general, mitigation of phishing attacks (via ZK vault), long-term quantum security embedded in any wallet in the ecosystem.  This design allows for the incorporation of any quantum-secure key pair within any regular wallet. Our system is very flexible and, therefore, compatibility with any post-quantum signature scheme is possible within the quantum-secure fallback primitive. 
 
 
-**Roadmap**
+## Roadmap
 
 Q4 2024:
 
@@ -57,7 +57,7 @@ Q3 2025:
 
 * ZK & Smart Contract Audit
 
-**Budget & milestones**
+## Budget & milestones
 
 We are requesting a total of $165,000. We believe this to be a project of medium-scale due to the intrinsically challenging primitives involved in this wallet design. Funds will be allocated completely to cover for the development of the software over a period of 12 months. 
 
@@ -75,7 +75,7 @@ We are requesting a total of $165,000. We believe this to be a project of medium
 
 * Milestone VII ($25,000): Audit of the smart contract(s) and ZK Circuits
 
-**KPIs**
+## KPIs
 The key performance indicators for such a project are:
 
 
@@ -89,7 +89,7 @@ The key performance indicators for such a project are:
 
 We believe this is the most straightforward and tangible way to measure the success, traction, and growth of the project. 
 
-**Team**
+## Team
 
 [Mario Yaksetig](https://scholar.google.com/citations?user=deXRtJwAAAAJ) - Applied cryptographer who worked with David Chaum, the creator of e-cash and online anonymous communications, on the design of novel protocols for the blockchain space. Mario's L2 work has been cited by Vitalik Buterin and is one of the creators of the quantum secure fallback primitive. Mario also wrote a [paper](https://eprint.iacr.org/2024/552.pdf) on how the Avalanche architecture is great for a blockchain-powered metaverse. 
 
@@ -101,6 +101,6 @@ Feasibility of the proposal: The team is experienced in the design and developme
 
 Additional remarks: The team is based in Cayman Islands, a crypto friendly jurisdiction. The team members are originally from Portugal and Cayman and are not in an OFAC sanctioned jurisdiction. This should result in a smooth KYC process. 
 
-**Contact details**
+## Contact details
 Telegram: @myaksetig
 Email: myaksetig@gmail.com
