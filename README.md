@@ -102,5 +102,5 @@ Feasibility of the proposal: The team is experienced in the design and developme
 Additional remarks: The team is based in Cayman Islands, a crypto friendly jurisdiction. The team members are originally from Portugal and Cayman and are not in an OFAC sanctioned jurisdiction. This should result in a smooth KYC process. 
 
 ## Contact details
-Telegram: @myaksetig
-Email: myaksetig@gmail.com
+* Telegram: @myaksetig
+* Email: myaksetig@gmail.com
