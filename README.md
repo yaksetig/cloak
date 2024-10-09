@@ -89,6 +89,16 @@ The key performance indicators for such a project are:
 
 We believe this is the most straightforward and tangible way to measure the success, traction, and growth of the project. 
 
+## Market Demand & Product Market Fit
+
+Regarding market demand: Our primitive(s) has been in the center of important Twitter discussions. For example, a [thread](https://x.com/ArthurB/status/1554738546610782209) with the co-founder of Tezos. Note: We are the only solution in the world that mitigates the 5th problem described in that post. This week, Andrew Miller, associate director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation, posted a [tweet](https://x.com/socrates1024/status/1841925983848333468) stating his interest in this work. 
+
+Regarding product market fit: We have built a much simpler version of these primitives in the past (called Sleeve wallet), which got over 2,000+ downloads in merely a couple of weeks and this tool only generated two mnemonics: the fallback key and the ECDSA key. This is significant because it got substantial downloads without any adequate marketing.
+
+As a final note, we highlight that one of our team members gave a university [talk](https://www.youtube.com/watch?v=teQj84Jlra0) about Sleeve. This talk was attended by multiple cryptographers, including a cryptographic protocol designer/analyst of the NSA and a cryptographer at Meta, who reached out to us after the event as he was interested in extending the Sleeve fallback construction to include data from ID documents, to ensure that a wallet is indeed binding to a person, while preserving privacy. Once we publish this work, we believe that we can even capture more attention on these primitives as they will now involve work from a cryptography team member from Meta.
+
+This work is also particularly relevant for potential Avalanche subnets that aim to utilize post-quantum crypto as we can ensure a cryptographic binding between regular ECDSA keys and post-quantum keys across subnets. The use of PQC in Avalanche subnets is a topic that has already been brought up by Emin a couple of times. We make that easier. 
+
 ## Team
 
 [Mario Yaksetig](https://scholar.google.com/citations?user=deXRtJwAAAAJ) - Applied cryptographer who worked with David Chaum, the creator of e-cash and online anonymous communications, on the design of novel protocols for the blockchain space. Mario's L2 work has been cited by Vitalik Buterin and is one of the creators of the quantum secure fallback primitive. Mario also wrote a [paper](https://eprint.iacr.org/2024/552.pdf) on how the Avalanche architecture is great for a blockchain-powered metaverse. 
