@@ -91,7 +91,7 @@ We believe this is the most straightforward and tangible way to measure the succ
 
 ## Market Demand & Product Market Fit
 
-Regarding market demand: Our primitive(s) has been in the center of important Twitter discussions. For example, a [thread](https://x.com/ArthurB/status/1554738546610782209) with the co-founder of Tezos. Note: We are the only solution in the world that mitigates the 5th problem described in that post. This week, Andrew Miller, associate director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation, posted a [tweet](https://x.com/socrates1024/status/1841925983848333468) stating his interest in this work. 
+Regarding market demand: Our primitives have been in the center of important Twitter discussions. For example, a [thread](https://x.com/ArthurB/status/1554738546610782209) with the co-founder of Tezos. Note: We are the only solution in the world that mitigates the 5th problem described in that post. This week, Andrew Miller, associate director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation, posted a [tweet](https://x.com/socrates1024/status/1841925983848333468) stating his interest in this work. 
 
 Regarding product market fit: We have built a much simpler version of these primitives in the past (called Sleeve wallet), which got over 2,000+ downloads in merely a couple of weeks and this tool only generated two mnemonics: the fallback key and the ECDSA key. This is significant because it got substantial downloads without any adequate marketing.
 
